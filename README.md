@@ -7,7 +7,8 @@ Three dataset of various size were made available. A Bayesian Score function has
 
 ## Project 2 - MDPs / Reinforcement Learning 
 For that project, the objective was to learn the optimal policy for three different data sets. The first one is a classic 10x10 GridWorld problem. The optimal policy has been found using Value Iteration. The second data set has been obtained from https://gym.openai.com/envs (mountain-car_v0). The third data set structure has not been revealed. In the second and third case, a Q-Learning algorithm with eligibility traces have been implemented. 
-<img src="images/thos.gif" alt="Drawing" style="width: 500px;"/>
+
+![demo](modelLearning/images/thos.gif)
 
 ## Final Project - Managing groundwater under uncertain seasonal recharge
 Final project done in collaboration 
